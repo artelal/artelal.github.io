@@ -124,7 +124,7 @@ li {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("/resources/images/sven-d-a4S6KUuLeoM-unsplash.jpg");
+    background-image: url("../resources/images/sven-d-a4S6KUuLeoM-unsplash.jpg");
     border: 1px solid rgb(3, 32, 3);
     z-index: 1;
 }
