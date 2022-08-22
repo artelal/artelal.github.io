@@ -176,7 +176,7 @@ li {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("/resources/images/arvid-skywalker-e9eK1TdOZJw-unsplash.jpg");
+    background-image: url("../resources/images/arvid-skywalker-e9eK1TdOZJw-unsplash.jpg");
     border: 1px solid rgb(3, 32, 3);
     z-index: 1;
 }
@@ -315,7 +315,7 @@ margin-bottom: 4rem;
     display: inline-flex;
     height: 35rem;
     width: 100%;
-    background-image: url("/resources/images/vecteezy_closeup-luxury-suv-car-parked-in-modern-showroom-red-suv_7668692_215.jpg");
+    background-image: url("../resources/images/vecteezy_closeup-luxury-suv-car-parked-in-modern-showroom-red-suv_7668692_215.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
